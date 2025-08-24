@@ -3,9 +3,7 @@
 
 <br>
 
-Hola!, Soy Gerardo Hernandez Gomez
-
-Me gusta estar constantemente aprendiendo acerca de ciberseguridad y crear herramientas para automatizar actividades repetitivas, mientras busco crear aportes a la comunidad. Me emociona avanzar en mi aprendizaje y enfrentar nuevas problematicas-
+Me gusta estar constantemente aprendiendo acerca de ciberseguridad, mientras busco crear aportes a la comunidad. Me emociona avanzar en mi aprendizaje y enfrentar nuevas problematicas-
 
 <br>
 
@@ -21,5 +19,3 @@ Me gusta estar constantemente aprendiendo acerca de ciberseguridad y crear herra
 * Telegram: [GownKydo](https://t.me/gownkydo)
 * LinkedIn: [Gerardo H. Gomez](https://www.linkedin.com/in/gerardohgomez)
 * Twitter/X: [GownKydo](https://twitter.com/GownKydo)
-
-¡No dudes en ponerte en contacto conmigo para colaborar en algun proyecto interesantes!
